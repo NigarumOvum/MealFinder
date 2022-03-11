@@ -1,5 +1,5 @@
 # MealFinder
-Meal Finder PWA made with Vite (Vanilla JS, TypeScript)
+Meal Finder PWA made with Vite (Vanilla JS & TypeScript)
 
 ## About me
 - 🤔 I’m looking for more oportunities, projects and startups to growth my skills and achieve more and more experience in many different technologies. ![developer](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-devops-flat-flat-juicy-fish-2.png)
